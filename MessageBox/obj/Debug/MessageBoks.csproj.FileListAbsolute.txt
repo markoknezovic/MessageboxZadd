@@ -1,0 +1,10 @@
+C:\Users\Ante Ujcic\source\repos\MessageBoks\MessageBoks\bin\Debug\MessageBoks.exe.config
+C:\Users\Ante Ujcic\source\repos\MessageBoks\MessageBoks\bin\Debug\MessageBoks.exe
+C:\Users\Ante Ujcic\source\repos\MessageBoks\MessageBoks\bin\Debug\MessageBoks.pdb
+C:\Users\Ante Ujcic\source\repos\MessageBoks\MessageBoks\obj\Debug\MessageBoks.csprojAssemblyReference.cache
+C:\Users\Ante Ujcic\source\repos\MessageBoks\MessageBoks\obj\Debug\MessageBoks.Form1.resources
+C:\Users\Ante Ujcic\source\repos\MessageBoks\MessageBoks\obj\Debug\MessageBoks.Properties.Resources.resources
+C:\Users\Ante Ujcic\source\repos\MessageBoks\MessageBoks\obj\Debug\MessageBoks.csproj.GenerateResource.cache
+C:\Users\Ante Ujcic\source\repos\MessageBoks\MessageBoks\obj\Debug\MessageBoks.csproj.CoreCompileInputs.cache
+C:\Users\Ante Ujcic\source\repos\MessageBoks\MessageBoks\obj\Debug\MessageBoks.exe
+C:\Users\Ante Ujcic\source\repos\MessageBoks\MessageBoks\obj\Debug\MessageBoks.pdb
